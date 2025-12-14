@@ -1,129 +1,103 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <title>《Sejarah Word Search》隐私权政策</title>
-    <style>
-        body {
-            font-family: Arial, "Microsoft YaHei", sans-serif;
-            max-width: 900px;
-            margin: 20px auto;
-            padding: 0 15px;
-            line-height: 1.6;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        h1 {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        small {
-            color: #666;
-        }
-    </style>
-</head>
-<body>
-<h1>《Sejarah Word Search》隐私权政策</h1>
-<small>最后更新日期：2025-12-14</small>
+# Privacy Policy for Sejarah Word Search SPM
 
-<h2>1. 简介</h2>
-<p>
-本隐私权政策说明《Sejarah Word Search》（以下简称“本应用”）如何在您使用本应用时收集、使用及保护您的信息。
-本应用由个人开发者（以下简称“我们”）提供，仅用于教育与练习用途，帮助学生练习 SPM Sejarah Kertas 1 相关 istilah。
-</p>
+_Last updated: 15 December 2025_
 
-<h2>2. 我们不主动收集的资料</h2>
-<p>本应用本身不要求用户注册帐号，也不会在应用内主动收集以下信息：</p>
-<ul>
-    <li>姓名、身份证号码、护照号码</li>
-    <li>电邮地址、电话号码、住址</li>
-    <li>相片、联络人名单、短信内容等</li>
-</ul>
-<p>
-应用的主要功能（Sejarah 文字寻宝游戏）皆在本机上运行，不需要用户输入任何个人资料即可使用。
-</p>
+This privacy policy explains how the **Sejarah Word Search SPM** app (“the app”, “we”, “our”) collects, uses, and protects your information.
 
-<h2>3. 自动收集的信息与第三方服务（Google AdMob）</h2>
-<p>
-为了支持免费提供本应用，我们在应用中整合了 Google AdMob 广告服务。  
-AdMob 可能会根据其政策自动收集某些装置相关信息，例如：
-</p>
-<ul>
-    <li>装置型号、作业系统版本</li>
-    <li>IP 地址、大致地区</li>
-    <li>广告辨识码（如 Android Advertising ID）</li>
-    <li>应用使用情况（例如广告展示与点击次数）</li>
-</ul>
-<p>
-这些数据用于：
-</p>
-<ul>
-    <li>显示广告与广告成效统计</li>
-    <li>防止欺诈和滥用</li>
-    <li>改善广告相关服务</li>
-</ul>
-<p>
-AdMob 的数据处理方式由 Google 负责，详情请参阅 Google 官方隐私权政策：  
-<a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">
-https://policies.google.com/privacy
-</a>
-</p>
+The app is published by **Kiing Jiu Hock (MM Team)**.
 
-<h2>4. 儿童隐私权</h2>
-<p>
-本应用可供学生/儿童使用，仅提供历史科目练习内容。  
-我们不会主动收集可识别个人身份的儿童资料。  
-第三方广告服务（例如 AdMob）可能会根据其针对儿童的政策做出相应处理，我们不会向 AdMob 主动提供任何用来识别儿童真实身份的资料。
-</p>
-<p>
-如果您是家长或监护人，并认为我们在不知情的情况下接收到您的孩子的个人信息，
-请透过下方联络方式与我们联系，我们会配合进行删除或处理。
-</p>
+---
 
-<h2>5. 权限使用说明</h2>
-<p>
-本应用可能会使用以下权限（以实际上架版本为准）：</p>
-<ul>
-    <li><strong>Internet / 网络权限</strong>：用于载入与显示 Google AdMob 广告。</li>
-    <li><strong>ACCESS_NETWORK_STATE</strong>：检测网络连线状态，用于广告加载与基础统计。</li>
-</ul>
-<p>
-我们不会借由这些权限读取您手机上的个人档案、相片、通讯录或简讯内容。
-</p>
+## 1. Information We Collect
 
-<h2>6. 数据保存与安全</h2>
-<p>
-本应用不在自有服务器上储存您的个人资料。  
-与广告相关的数据由 Google AdMob 根据其政策保管。  
-我们会尽可能依据合理的技术手段保护您的资料安全，但请您了解，任何透过互联网传输的资料都存在一定风险。
-</p>
+The app itself does **not** require you to create an account and does **not** ask you to enter your name, email, phone number, IC number, or password.
 
-<h2>7. 第三方链接</h2>
-<p>
-本应用目前主要使用的第三方服务为 Google AdMob。若未来版本加入其他外部链接或第三方服务，
-我们会在更新版本中于此政策或应用内作出说明。
-</p>
+However, the app and its third-party services may collect some information automatically:
 
-<h2>8. 隐私权政策的变更</h2>
-<p>
-我们可能会不时更新本隐私权政策。  
-如有重大变更，我们会在应用更新说明或本页面上标明“最后更新日期”。  
-建议您定期查看本页面，以了解最新的隐私权安排。
-</p>
+1. **Device information**
+   - Device model, operating system version, language, and country.
+   - App version, crash data, and basic performance data.
 
-<h2>9. 联络我们</h2>
-<p>
-如果您对本隐私权政策或本应用在隐私及资料保护方面有任何疑问、意见或要求，
-欢迎联络我们：
-</p>
-<ul>
-    <li>电邮：<a href="mmluckyteam@gmail.com">mmluckyteam@gmail.com</a></li>
-</ul>
+2. **Usage information**
+   - Screens you open, buttons you tap, and basic usage statistics (for example how often you use the app).
 
-<hr>
-<p>
-本隐私权政策适用于《Sejarah Word Search》应用在 Google Play 商店的所有当前正式版本。
-</p>
-</body>
-</html>
+3. **Advertising ID**
+   - A resettable **Advertising ID** provided by Google Play services, used for showing and measuring advertisements.
+
+We do **not** knowingly collect any information that directly identifies you as an individual.
+
+---
+
+## 2. Third-Party Services
+
+The app uses the following third-party services:
+
+### 2.1 Google AdMob
+
+We use **Google AdMob** to show banner ads, interstitial ads and rewarded ads.  
+AdMob may collect and use data such as:
+
+- Advertising ID  
+- Approximate location  
+- App usage information  
+- Device information  
+
+This data is used for:
+
+- Showing ads in the app  
+- Measuring ad performance  
+- Detecting fraud and abuse  
+
+For more details, please refer to Google’s privacy policy and the Google Play Services & AdMob documentation.
+
+---
+
+## 3. How We Use the Information
+
+We use the information described above for the following purposes:
+
+- To show ads and support the free version of the app  
+- To improve app stability and performance  
+- To understand general usage patterns (for example which screens are most used)
+
+We do **not** sell your personal data to any third parties.
+
+---
+
+## 4. Children's Privacy
+
+This app is designed for **secondary school students** (SPM level) and general users.  
+The app **does not knowingly collect personal data from children under 13 years old**.
+
+If you are a parent or guardian and believe that your child has provided personal data to us, please contact us and we will remove that information as soon as possible.
+
+---
+
+## 5. Data Retention
+
+We do not store your personal data on our own servers.  
+Any data collected by third-party services (such as AdMob) is kept according to their own retention policies.
+
+---
+
+## 6. Your Choices
+
+- You can reset your **Advertising ID** in your Android device settings.  
+- You can limit ad personalization in Google settings on your device.  
+- You can uninstall the app at any time to stop all data collection by this app.
+
+---
+
+## 7. Changes to This Privacy Policy
+
+We may update this privacy policy from time to time.  
+Any changes will be posted on this page with a new “Last updated” date.
+
+---
+
+## 8. Contact Us
+
+If you have any questions about this privacy policy or how your data is handled, you can contact us at:
+
+**Email:** mmluckyteam@gmail.com  
+**App name:** Sejarah Word Search SPM
