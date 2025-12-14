@@ -4,7 +4,7 @@ _Last updated: 15 December 2025_
 
 This privacy policy explains how the **Sejarah Word Search SPM** app (“the app”, “we”, “our”) collects, uses, and protects your information.
 
-The app is published by **Kiing Jiu Hock (MM Team)**.
+The app is published by **(MM Team)**.
 
 ---
 
