@@ -1,1 +1,104 @@
+# Privacy Policy for Sejarah Word Search SPM
+
+_Last updated: 15 December 2025_
+
+This privacy policy explains how the **Sejarah Word Search SPM** app (“the app”, “we”, “our”) collects, uses, and protects your information.
+
+The app is published by **Kiing Jiu Hock (MM Team)**.
+
+---
+
+## 1. Information We Collect
+
+The app itself does **not** require you to create an account and does **not** ask you to enter your name, email, phone number, IC number, or password.
+
+However, the app and its third-party services may collect some information automatically:
+
+1. **Device information**
+   - Device model, operating system version, language, and country.
+   - App version, crash data, and basic performance data.
+
+2. **Usage information**
+   - Screens you open, buttons you tap, and basic usage statistics (for example how often you use the app).
+
+3. **Advertising ID**
+   - A resettable **Advertising ID** provided by Google Play services, used for showing and measuring advertisements.
+
+We do **not** knowingly collect any information that directly identifies you as an individual.
+
+---
+
+## 2. Third-Party Services
+
+The app uses the following third-party services:
+
+### 2.1 Google AdMob
+
+We use **Google AdMob** to show banner ads, interstitial ads and rewarded ads.  
+AdMob may collect and use data such as:
+
+- Advertising ID  
+- Approximate location  
+- App usage information  
+- Device information  
+
+This data is used for:
+
+- Showing ads in the app  
+- Measuring ad performance  
+- Detecting fraud and abuse  
+
+For more details, please refer to Google’s privacy policy and the Google Play Services & AdMob documentation.
+
+---
+
+## 3. How We Use the Information
+
+We use the information described above for the following purposes:
+
+- To show ads and support the free version of the app  
+- To improve app stability and performance  
+- To understand general usage patterns (for example which screens are most used)
+
+We do **not** sell your personal data to any third parties.
+
+---
+
+## 4. Children's Privacy
+
+This app is designed for **secondary school students** (SPM level) and general users.  
+The app **does not knowingly collect personal data from children under 13 years old**.
+
+If you are a parent or guardian and believe that your child has provided personal data to us, please contact us and we will remove that information as soon as possible.
+
+---
+
+## 5. Data Retention
+
+We do not store your personal data on our own servers.  
+Any data collected by third-party services (such as AdMob) is kept according to their own retention policies.
+
+---
+
+## 6. Your Choices
+
+- You can reset your **Advertising ID** in your Android device settings.  
+- You can limit ad personalization in Google settings on your device.  
+- You can uninstall the app at any time to stop all data collection by this app.
+
+---
+
+## 7. Changes to This Privacy Policy
+
+We may update this privacy policy from time to time.  
+Any changes will be posted on this page with a new “Last updated” date.
+
+---
+
+## 8. Contact Us
+
+If you have any questions about this privacy policy or how your data is handled, you can contact us at:
+
+**Email:** mmluckyteam@gmail.com  
+**App name:** Sejarah Word Search SPM
 
